@@ -1,12 +1,3 @@
-/* 
-Welcome to the source code of Wordle With A Twist!
-Wordle With A Twist is a wordle clone with a twist in game play.
-
-Date of Creation: 19th February 2022
-Author: Zeno
-Version: 1.0.1
-*/
-
 ////// VARIABLES //////
 let word = "";
 let answer = "";
