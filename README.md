@@ -15,7 +15,7 @@
 ## ❓ About
 Wordle With A Twist is a wordle clone with a twist in game play. Here's a <a href="https://wordle-with-a-twist.netlify.app/" target="_blank">demo</a> of the website.
 - Date of Creation: 19th February 2022
-- Author: Zeno
+- Author: Lim Wei Jen
 - Version: 1.0.0
 
 ## ❗ Rules
@@ -24,6 +24,6 @@ Wordle With A Twist is a wordle clone with a twist in game play. Here's a <a hre
 3. Unlike the original wordle, this version of worlde validates your guess by telling you if the actual answer is <strong>alphabetically</strong> before or after your guess.
 
 ## 📷 Screenshots
-![img](https://i.imgur.com/TfWKmWM.png)
-![img](https://i.imgur.com/K5Eiib0.png)
-![img](https://i.imgur.com/CtDxKLp.png)
+![img](https://i.imgur.com/ETgDapY.png)
+![img](https://i.imgur.com/Dxfs1Nc.png)
+![img](https://i.imgur.com/KesFGyF.png)
